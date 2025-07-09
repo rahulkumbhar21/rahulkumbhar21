@@ -23,15 +23,15 @@ Here are some ideas to get you started:
 
 ## 💫 About Me:
 
-🎓 Currently pursuing a Bachelor's degree in **Electronics and Telecommunication Engineering** at **Vishwakarma Institute of Technology, Pune**
+🎓 Graduated in May 2025 with a Bachelor's degree in Electronics and Telecommunication Engineering from Vishwakarma Institute of Technology, Pune
 
-🔍 Focused on **Computer Vision, Deep Learning, and LLM-based NLP applications**
+🔍 Focused on Computer Vision, Deep Learning, and LLM-based NLP applications
 
 ✌️ Fun Fact: If our vibe matches, I'm probably the most interesting person you'll meet!
 
-✈️ Loving the journey of **learning, collaborating, and deep diving into AI, LLM, and smart tech**
+✈️ Loving the journey of learning, collaborating, and deep diving into AI, LLM, and smart tech
 
-👏 Passionate about **coding, problem-solving, and full-stack development**
+👏 Passionate about coding, problem-solving, and full-stack development
 
 ---
 
@@ -75,13 +75,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumbhar&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumbhar&layout=compact&theme=radical)
-
----
 
 ## 📌 Quote I Live By
 
